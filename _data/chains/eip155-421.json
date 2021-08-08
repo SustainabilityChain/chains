@@ -1,0 +1,16 @@
+{
+  "name": "SustainbailityChain",
+  "chain": "SUST",
+  "network": "mainnet",
+  "rpc": "https://rpc.sustainabilitychain.ch",
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "customEther",
+    "symbol": "cETH",
+    "decimals": 18
+  },
+  "infoURL": "https://porini.foundation",
+  "shortName": "sust",
+  "chainId": 421,
+  "networkId": 421
+}
